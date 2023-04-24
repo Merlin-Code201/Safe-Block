@@ -35,7 +35,7 @@
 
 
 
-\## 🛠️ Descripcion del proyecto
+## :hammer: Descripcion del proyecto
 Para la industria de la seguridad , SafeBlock es una aplicacion de alertas y avisos para la atencion de las autoridades competentes atravez de una agencia de seguiridad .
 
 
@@ -58,20 +58,24 @@ Podremos ayudar a nuetra seguridad de una manera activa y sin exponernos al peli
 
 
 
-\## 📁 Acceso al proyecto
+##📁 Acceso al proyecto
 
 **En esta seccion indicamos como podemos descargar la aplicacion **
 
 
 
-\## 🛠️ Abre y ejecuta el proyecto
+##🛠️ Abre y ejecuta el proyecto
 
 **Mostramos  las instrucciones necesarias para abrir y ejecutar el proyecto**
 
-\## 🛠️ Tecgnologias Usadas
+## :hammer: Tecgnologias Usadas
 - `Visual Studio code`
 - `FlutterFlow`
 - `Emuladores Nemu`
 - `Figma`
 - `Talento y disciplina Humana de La mejor`
 
+## Autores
+- ALexander Renteria
+- Brahyam 
+- Derney Stiven 
